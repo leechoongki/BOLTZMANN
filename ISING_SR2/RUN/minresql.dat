@@ -1,0 +1,21 @@
+
+
+ Enter MINRES-QLP.      Solution of symmetric   Ax = b
+ n        =    120      ||b||    =   2.78E-03   precon   =   F
+ itnlim   =    480      rtol     =   2.22E-16   shift    =   0.00000000000000E+00
+ maxxnorm =   1.00E+07  Acondlim =   6.00E+00   trancond =   6.00E+00
+
+
+    iter   x(1)              xnorm     rnorm     Arnorm   Compatible   LS      norm(A)   cond(A)
+       0   0.0000000000E+00  0.00E+00  2.78E-03  3.83E-04  1.00E+00  1.00E+00  0.00E+00  1.00E+00  
+
+
+    iter   x(1)              xnorm     rnorm     Arnorm   Compatible   LS      norm(A)   cond(A)
+       0   1.9489199935E-03  9.61E-03  2.45E-03  6.86E-05  5.96E-01  8.91E-02  1.38E-01  1.00E+00  
+       1   3.5272816810E-03  3.46E-02  2.45E-03  1.11E-04  5.96E-01  1.44E-01  3.15E-01  1.00E+00  
+
+ Exit  MINRES-QLP.       istop = 13              itn    =       1
+ Exit  MINRES-QLP.       Anorm =  3.1465E-01     Acond  =  1.0000E+00
+ Exit  MINRES-QLP.       rnorm =  2.4472E-03     Arnorm =  1.1066E-04
+ Exit  MINRES-QLP.       xnorm =  3.4622E-02
+ Exit  MINRES-QLP.       Acond has exceeded Acondlim or 0.1/eps.                          
