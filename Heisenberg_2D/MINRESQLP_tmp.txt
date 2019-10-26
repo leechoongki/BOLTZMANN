@@ -1,0 +1,6 @@
+
+
+ Enter MINRES-QLP.      Solution of symmetric   Ax = b
+ n        =    120      ||b||    =   3.32E+00   precon   =   F
+ itnlim   =    480      rtol     =   2.22E-16   shift    =   0.00000000000000E+00
+ maxxnorm =   1.00E+07  Acondlim =   1.00E+15   trancond =   1.00E+07
