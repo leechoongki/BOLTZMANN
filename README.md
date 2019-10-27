@@ -1,7 +1,7 @@
 # BOLTZMANN
 boltzmann-machine Many body 
 
-ISING: 이징 모델 푼 것
+ISING: 이징체인 모델 푼 것
 
 ISING_SR: 이징 모델 풀 때, 스토캐스틱 리컨피겨레이션 이용한 것
 
